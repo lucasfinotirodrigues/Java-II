@@ -10,13 +10,13 @@ public class Aluno {
     public String getNome(){
         return this.nome;
     }
-    
-    //Geters and Seters of Idade
-    public int void setIdade(int idade){
+
+   //Geters and Seters of Idade
+    public void setIdade(int idade) {
         this.idade = idade;
     }
 
-    public int getIdade(){
-        return this.idade;
-    }
+    public int getIdade() {
+        return idade;
+    }   
 }
