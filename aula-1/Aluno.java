@@ -4,7 +4,7 @@ public class Aluno {
 
     //Geters and Seters of Nome
     public void setNome(String nome){
-        this.nome = nome
+        this.nome = nome;
     }
 
     public String getNome(){
